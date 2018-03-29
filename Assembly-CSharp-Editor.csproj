@@ -165,19 +165,19 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="AssetStoreTools">
- <HintPath>C:/Users/jeff-/Unity Projects/Turok/Turok-Bloodlands/Unity/Turok-Bloodlands/Assets/AssetStoreTools/Editor/AssetStoreTools.dll</HintPath>
+ <HintPath>D:/Unity Projects/Turok/Turok-Bloodlands/Assets/AssetStoreTools/Editor/AssetStoreTools.dll</HintPath>
  </Reference>
  <Reference Include="AssetStoreToolsExtra">
- <HintPath>C:/Users/jeff-/Unity Projects/Turok/Turok-Bloodlands/Unity/Turok-Bloodlands/Assets/AssetStoreTools/Editor/AssetStoreToolsExtra.dll</HintPath>
+ <HintPath>D:/Unity Projects/Turok/Turok-Bloodlands/Assets/AssetStoreTools/Editor/AssetStoreToolsExtra.dll</HintPath>
  </Reference>
  <Reference Include="XInputDotNetPure">
- <HintPath>C:/Users/jeff-/Unity Projects/Turok/Turok-Bloodlands/Unity/Turok-Bloodlands/Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/XInput/Plugins/x86/XInputDotNetPure.dll</HintPath>
+ <HintPath>D:/Unity Projects/Turok/Turok-Bloodlands/Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/XInput/Plugins/x86/XInputDotNetPure.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>C:/Users/jeff-/Unity Projects/Turok/Turok-Bloodlands/Unity/Turok-Bloodlands/Assets/MixerInteractive/Source/DLLs/Win32/Newtonsoft.Json.dll</HintPath>
+ <HintPath>D:/Unity Projects/Turok/Turok-Bloodlands/Assets/MixerInteractive/Source/DLLs/Win32/Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="websocket-sharp">
- <HintPath>C:/Users/jeff-/Unity Projects/Turok/Turok-Bloodlands/Unity/Turok-Bloodlands/Assets/MixerInteractive/Source/DLLs/Win32/websocket-sharp.dll</HintPath>
+ <HintPath>D:/Unity Projects/Turok/Turok-Bloodlands/Assets/MixerInteractive/Source/DLLs/Win32/websocket-sharp.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Advertisements">
  <HintPath>C:/ProgramData/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/UnityEngine.Advertisements.dll</HintPath>
