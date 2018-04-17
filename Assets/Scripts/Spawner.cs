@@ -230,7 +230,7 @@ public class Spawner : MonoBehaviour
 	// spawns an enemy based on the enemy level that you selected
 	private void spawnEnemy()
 	{
-		GameObject Enemy = (GameObject) Instantiate(Enemies[enemyLevel], gameObject.transform.position, Quaternion.identity);
+		GameObject Enemy = (GameObject) Instantiate(Enemies[enemyLevel], gameObject.transform.position, gameObject.transform.rotation);
 		Enemy.SendMessage("setName", SpawnID);
 		// Increase the total number of enemies spawned and the number of spawned enemies
 		numEnemy++;
